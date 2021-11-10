@@ -23,5 +23,8 @@ design:
   view: 3
   background:
     text_color_light: false
+    color: "#cfcfcf"
+    gradient_start: "#734d4d"
+    gradient_end: "#9d2c2c"
   spacing: {}
 ---
