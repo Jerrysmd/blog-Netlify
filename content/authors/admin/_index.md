@@ -1,12 +1,15 @@
 ---
 title: 刘佳锐
 role: ""
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: far
     link: about/#contact
+    display:
+      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
