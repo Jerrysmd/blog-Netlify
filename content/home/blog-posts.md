@@ -22,6 +22,6 @@ design:
   columns: "1"
   view: 3
   background:
-    text_color_light: true
+    text_color_light: false
   spacing: {}
 ---
