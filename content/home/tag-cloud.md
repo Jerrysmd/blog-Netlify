@@ -7,7 +7,7 @@ title: ""
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     text_color_light: false
     image_darken: ""
@@ -16,4 +16,3 @@ design:
     gradient_end: "#299230"
     image: ""
 ---
-## tag-cloud
