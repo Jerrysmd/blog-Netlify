@@ -2,7 +2,7 @@
 widget: pages
 widget_id: RECENT-POSTS
 headless: true
-weight: 20
+weight: 1
 title: ""
 subtitle: ""
 active: true
@@ -19,7 +19,7 @@ content:
   archive:
     enable: false
 design:
-  columns: "1"
+  columns: "2"
   view: 3
   background:
     text_color_light: false
