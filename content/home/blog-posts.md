@@ -19,7 +19,7 @@ content:
   archive:
     enable: false
 design:
-  columns: "1"
+  columns: "2"
   view: 3
   background: {}
   spacing: {}
